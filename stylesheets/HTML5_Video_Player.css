@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  text-align: center;
+}
+
+#video {
+  border: gray 1px solid;
+  width: 100%;
+}
